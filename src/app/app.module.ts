@@ -70,7 +70,7 @@ dom.watch(); // Kicks off the process of finding <i> tags and replacing with <sv
     GalleryModule // <-------------------------------------------- @ks89/angular-modal-gallery module import
   ],
   providers: [],
-  entryComponents: [ModalGalleryComponent]
+  entryComponents: [ModalGalleryComponent],
   bootstrap: [AppComponent],
 })
 export class AppModule {}
