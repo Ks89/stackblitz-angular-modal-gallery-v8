@@ -43,7 +43,7 @@ import * as libConfigs from './libconfigs';
 @Component({
   selector: 'ks-modal-gallery-page',
   templateUrl: './modal-gallery.html',
-  styleUrls: ['./modal-gallery.css']
+  styleUrls: ['./modal-gallery.scss']
 })
 export class ModalGalleryExampleComponent implements OnDestroy {
   imageIndex = 0;
