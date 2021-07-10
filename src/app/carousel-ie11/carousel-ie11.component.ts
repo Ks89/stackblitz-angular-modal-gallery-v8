@@ -30,7 +30,7 @@ import { CarouselExampleComponent } from '../carousel/carousel.component';
 @Component({
   selector: 'ks-carousel-ie11-page',
   templateUrl: './carousel-ie11.html',
-  styleUrls: ['./carousel-ie11.scss']
+  styleUrls: ['./carousel-ie11.css']
 })
 export class CarouselIe11ExampleComponent {
   imagesRect: Image[] = [

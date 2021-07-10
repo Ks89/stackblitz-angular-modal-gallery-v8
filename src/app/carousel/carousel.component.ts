@@ -29,7 +29,7 @@ import { AccessibilityConfig, Image, ImageEvent } from '@ks89/angular-modal-gall
 @Component({
   selector: 'ks-carousel-page',
   templateUrl: './carousel.html',
-  styleUrls: ['./carousel.scss']
+  styleUrls: ['./carousel.css']
 })
 export class CarouselExampleComponent {
   imageIndex = 1;
