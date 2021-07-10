@@ -39,7 +39,7 @@ import { IntroHeaderComponent } from './intro-header/intro-header.component';
 // ********************** angular-modal-gallery *****************************
 import 'hammerjs'; // Mandatory for angular-modal-gallery 3.x.x or greater (`npm i --save hammerjs`)
 import 'mousetrap'; // Mandatory for angular-modal-gallery 3.x.x or greater (`npm i --save mousetrap`)
-import { GalleryModule, ModalGalleryComponent } from '@ks89/angular-modal-gallery'; // <----------------- angular-modal-gallery library import
+import { GalleryModule,  } from '@ks89/angular-modal-gallery'; // <----------------- angular-modal-gallery library import
 // **************************************************************************
 
 // ************************ optional font-awesome 5 ************************
@@ -70,7 +70,6 @@ dom.watch(); // Kicks off the process of finding <i> tags and replacing with <sv
     GalleryModule // <-------------------------------------------- @ks89/angular-modal-gallery module import
   ],
   providers: [],
-  entryComponents: [ModalGalleryComponent],
-  bootstrap: [AppComponent, ModalGalleryComponent],
+  bootstrap: [AppComponent],
 })
 export class AppModule {}
