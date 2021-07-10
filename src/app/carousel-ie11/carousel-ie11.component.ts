@@ -37,132 +37,132 @@ export class CarouselIe11ExampleComponent {
     new Image(
       0,
       {
-        img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/milan-pegasus-gallery-statue.jpg',
+        img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/milan-pegasus-gallery-statue.jpg',
         description: 'Description 1'
       },
       {
-        img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/thumbs/t-milan-pegasus-gallery-statue.jpg',
+        img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/thumbs/t-milan-pegasus-gallery-statue.jpg',
         title: 'First image title',
         alt: 'First image alt',
         ariaLabel: 'First image aria-label'
       }
     ),
-    new Image(1, { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/pexels-photo-47223.jpeg' }, { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/thumbs/t-pexels-photo-47223.jpg' }),
+    new Image(1, { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/pexels-photo-47223.jpeg' }, { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/thumbs/t-pexels-photo-47223.jpg' }),
     new Image(
       2,
       {
-        img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/pexels-photo-52062.jpeg',
+        img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/pexels-photo-52062.jpeg',
         description: 'Description 3',
         title: 'Third image title',
         alt: 'Third image alt',
         ariaLabel: 'Third image aria-label'
       },
       {
-        img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/thumbs/t-pexels-photo-52062.jpg',
+        img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/thumbs/t-pexels-photo-52062.jpg',
         description: 'Description 3'
       }
     ),
     new Image(
       3,
       {
-        img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/pexels-photo-66943.jpeg',
+        img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/pexels-photo-66943.jpeg',
         description: 'Description 4',
         title: 'Fourth image title (modal obj)',
         alt: 'Fourth image alt (modal obj)',
         ariaLabel: 'Fourth image aria-label (modal obj)'
       },
       {
-        img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/thumbs/t-pexels-photo-66943.jpg',
+        img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/thumbs/t-pexels-photo-66943.jpg',
         title: 'Fourth image title (plain obj)',
         alt: 'Fourth image alt (plain obj)',
         ariaLabel: 'Fourth image aria-label (plain obj)'
       }
     ),
-    new Image(4, { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/pexels-photo-93750.jpeg' }, { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/thumbs/t-pexels-photo-93750.jpg' }),
+    new Image(4, { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/pexels-photo-93750.jpeg' }, { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/thumbs/t-pexels-photo-93750.jpg' }),
     new Image(
       5,
       {
-        img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/pexels-photo-94420.jpeg',
+        img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/pexels-photo-94420.jpeg',
         description: 'Description 6'
       },
-      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/thumbs/t-pexels-photo-94420.jpg' }
+      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/thumbs/t-pexels-photo-94420.jpg' }
     ),
-    new Image(6, { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/pexels-photo-96947.jpeg' }, { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/thumbs/t-pexels-photo-96947.jpg' })
+    new Image(6, { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/pexels-photo-96947.jpeg' }, { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/thumbs/t-pexels-photo-96947.jpg' })
   ];
 
   imagesRectNoTitles: Image[] = [
     new Image(
       0,
-      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/milan-pegasus-gallery-statue.jpg', title: '' },
-      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/thumbs/t-milan-pegasus-gallery-statue.jpg', title: '' }
+      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/milan-pegasus-gallery-statue.jpg', title: '' },
+      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/thumbs/t-milan-pegasus-gallery-statue.jpg', title: '' }
     ),
     new Image(
       1,
-      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/pexels-photo-47223.jpeg', title: '' },
-      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/thumbs/t-pexels-photo-47223.jpg', title: '' }
+      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/pexels-photo-47223.jpeg', title: '' },
+      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/thumbs/t-pexels-photo-47223.jpg', title: '' }
     ),
     new Image(
       2,
-      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/pexels-photo-52062.jpeg', title: '' },
-      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/thumbs/t-pexels-photo-52062.jpg', title: '' }
+      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/pexels-photo-52062.jpeg', title: '' },
+      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/thumbs/t-pexels-photo-52062.jpg', title: '' }
     ),
     new Image(
       3,
-      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/pexels-photo-66943.jpeg', title: '' },
-      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/thumbs/t-pexels-photo-66943.jpg', title: '' }
+      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/pexels-photo-66943.jpeg', title: '' },
+      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/thumbs/t-pexels-photo-66943.jpg', title: '' }
     ),
     new Image(
       4,
-      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/pexels-photo-93750.jpeg', title: '' },
-      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/thumbs/t-pexels-photo-93750.jpg', title: '' }
+      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/pexels-photo-93750.jpeg', title: '' },
+      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/thumbs/t-pexels-photo-93750.jpg', title: '' }
     ),
     new Image(
       5,
-      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/pexels-photo-94420.jpeg', title: '' },
-      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/thumbs/t-pexels-photo-94420.jpg', title: '' }
+      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/pexels-photo-94420.jpeg', title: '' },
+      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/thumbs/t-pexels-photo-94420.jpg', title: '' }
     ),
     new Image(
       6,
-      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/pexels-photo-96947.jpeg', title: '' },
-      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/thumbs/t-pexels-photo-96947.jpg', title: '' }
+      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/pexels-photo-96947.jpeg', title: '' },
+      { img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/thumbs/t-pexels-photo-96947.jpg', title: '' }
     )
   ];
 
   fallbackRectImages: Image[] = [
     new Image(0, {
       // this file is not available so the browser returns an error
-      img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/UNEXISTING_IMG1.jpg',
+      img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/UNEXISTING_IMG1.jpg',
       // because the img above doesn't exists, the library will use this file
-      fallbackImg: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/fallback-carousel1.jpg'
+      fallbackImg: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/fallback-carousel1.jpg'
     }),
     new Image(1, {
-      img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/UNEXISTING_IMG2.jpg',
-      fallbackImg: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/fallback-carousel2.jpg'
+      img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/UNEXISTING_IMG2.jpg',
+      fallbackImg: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/fallback-carousel2.jpg'
     }),
     new Image(
       2,
       {
-        img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/UNEXISTING_IMG3.jpg',
-        fallbackImg: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/fallback-carousel3.jpg'
+        img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/UNEXISTING_IMG3.jpg',
+        fallbackImg: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/fallback-carousel3.jpg'
       },
       {
-        img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/thumbs/UNEXISTING_IMG3.png',
-        fallbackImg: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/fallback-carousel3.jpg'
+        img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/thumbs/UNEXISTING_IMG3.png',
+        fallbackImg: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/fallback-carousel3.jpg'
       }
     ),
     new Image(3, {
-      img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/UNEXISTING_IMG4.jpg',
-      fallbackImg: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/fallback-carousel4.jpg'
+      img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/UNEXISTING_IMG4.jpg',
+      fallbackImg: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/fallback-carousel4.jpg'
     }),
     new Image(
       4,
       {
-        img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/UNEXISTING_IMG5.jpg',
-        fallbackImg: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/fallback-carousel5.jpg'
+        img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/UNEXISTING_IMG5.jpg',
+        fallbackImg: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/fallback-carousel5.jpg'
       },
       {
-        img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/thumbs/UNEXISTING_IMG5.jpg',
-        fallbackImg: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8-example/master/src/assets/images/gallery/fallback-carousel5.jpg'
+        img: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/thumbs/UNEXISTING_IMG5.jpg',
+        fallbackImg: 'https://stackblitz.com/files/angular-modal-gallery-v8/github/Ks89/stackblitz-angular-modal-gallery-v8/master/src/assets/images/gallery/fallback-carousel5.jpg'
       }
     )
   ];
